@@ -1,4 +1,4 @@
-# nectar
+# restaurant app
 
 A new Flutter project.
 
